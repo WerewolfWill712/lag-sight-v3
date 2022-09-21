@@ -1,0 +1,14 @@
+.movie-lists{
+    display: flex;
+    justify-content: center;
+    gap:1rem;
+}
+
+.lists{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    max-width: 10rem;
+}

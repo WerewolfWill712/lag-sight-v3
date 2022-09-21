@@ -1,0 +1,8 @@
+.movie-item{
+    display: flex;
+    flex-direction: column;
+}
+.movie-item img{
+    width: 8rem;
+    margin: 0 auto;
+}
